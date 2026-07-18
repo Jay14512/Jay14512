@@ -1,71 +1,68 @@
 # Hi, I'm Joshua 👋  
-### Junior Backend Developer (PHP/Laravel) | Building clean, structured applications
+### Junior Backend Developer | Core Java & Spring Boot Ecosystem
 
-I'm a backend-focused developer who enjoys building real, functional applications with PHP, Laravel, SQL, and clean project architecture.  
-During my course and exam projects, I discovered that backend is where I feel most at home — logic, structure, validation, authentication, and data flow are the parts I enjoy the most.
+I'm a logic-driven backend developer focused on building secure, robust, and enterprise-grad web application. After building a strong foundation in PHP, Laravel and SQL, I am currently aligning my entire tech stack with the Java ecosystem - focusing on Core Java logig, OOP architecture, automated unit testing, and Spring Boot APIs. 
 
-I also explore modern frontend tools like JavaScript, React, and TypeScript to understand how the frontend interacts with backend APIs.
+Backend engineering is where I excel. I thrive on structural validation, database engineering, automated testing guardrails, and data flow.
 
 ---
 
 ## 🔧 Tech Stack
 
-**Backend:**  
-- PHP · Laravel · MySQL · PDO  
-- Authentication · Validation · Sessions  
-- File Handling · CSV Processing · MVC Concepts  
+**The Java Ecosystem (Active Core Focus):**  
+- Java Core · Object-Oriented Programming (OOP) logic · IntelliJ IDEA Ecosystem
+- Automated Testing (JUnit 5 basics, unit testing business logic)
+- Spring Boot Framework (Currently learning: Dependency Injection, Spring Data JPA, REST APIs)
+
+**The PHP Foundation (Proven Production Knowledge):**  
+- PHP · Laravel · MySQL · PDO
+- Session-based Authentication · Custom Request Validation · MVC Architecture
+- Server-side File Handling · CSV Data Processing
+
 
 **Frontend:**  
 - JavaScript (API handling, async logic)  
-- React + TypeScript  
+- React + TypeScript basics
 - HTML · CSS · Bulma  
 
 **Tools:**  
 - Git & GitHub  
-- VS Code  
-- Postman (learning)  
-- Linux basics (learning)
+- VS Code
+- IntelliJ 
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects & Active Engineering
 
-Here are some of my main projects:
+Here is what I am actively building and maintaining:
+
+### **🛡️ Citizen Vaccine Appointment Manager (CVAM) — Active Java Core / Spring Boot Project**
+A centralized, enterprise-modeled system built to simulate public-sector logistics. This project serves as my main environment for mastering clean Java logic, automated testing validation layers, and integration with Spring Boot APIs and relational databases.
 
 ### **📚 Inclusive Inc — Full-Stack Exam Project (Laravel + MySQL)**
-Full media library with authentication, email verification, ratings, favorites, dynamic categories, and live search.
+A complete media management architecture featuring email verification, secure multi-user authentication, live search components, dynamic category filtering, and relational storage.
 
 ### **🔐 Members Only v2 — Refactored Authentication App**
-Improved structure, session-based authentication, profile editing, GUMP validation, secure password handling.
+An architecture refactoring project focusing on session-based security, secure password hashing mechanics, and robust GUMP server-side data validation.
 
 ### **📄 Application Form v2 — Refactored Backend Form**
-Custom validation rules, file uploads, CSV storage, and clean project organization.
-
-### **👥 Customers Overview — CSV Processing**
-Reads and processes CSV files, displays customer data, includes filtering and sorting.
-
-### **🌍 Live City Search — JS API Project**
-Live search, autocomplete, API-based ZIP/coordinates retrieval, dynamic UI updates.
-
-### **📖 Reading List (React + TypeScript)**
-Small React project to learn typed components, hooks, and localStorage.
+A targeted backend processing script implementing custom server-side validation rules, secure multi-format file uploads, and continuous CSV data persistence.
 
 ---
 
 ## 🧠 What I'm Currently Focusing On
 
-- Strengthening backend skills  
-- Practicing Laravel architecture and APIs  
-- Learning Postman for API testing   
-- Preparing my portfolio for backend job applications  
+- Mastering Unit Testing patterns inside Java utilizing JUnit to ensure regression safety.
+- Building out the core REST API controllers and Spring Data JPA repositories for the CVAM project.
+- Preparing for entry-level backend engineering roles (ST1) within structural, industrial, or enterprise environments.
 
 ---
 
 ## ✨ About Me
 
-- I enjoy writing clear, organized code.  
-- I like refactoring projects to make them cleaner and more maintainable.  
-- Backend logic gives me that “click” feeling — it just makes sense.  
+- I write clear, organized code with highly maintainable functions.  
+- I refactor projects to make them cleaner and more maintainable.  
+- Backend logic gives me that “click” feeling — it behaves according to explicit rules.  
 - I’m actively preparing for my first backend developer role.  
 
 
