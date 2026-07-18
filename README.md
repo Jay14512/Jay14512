@@ -34,7 +34,7 @@ Backend engineering is where I excel. I thrive on structural validation, databas
 
 ## 📌 Featured Projects & Active Engineering
 
-Here is what I built and what I am building at the moment:
+Here is the core application I am actively developing, alongside a selection of completed backend projects that demonstrate my architectural foundation.
 
 ### **🛡️ Citizen Vaccine Appointment Manager (CVAM) — Active Java Core / Spring Boot Project (WIP)**
 A centralized, enterprise-modeled system built to simulate public-sector logistics. This project serves as my main environment for mastering clean Java logic, automated testing validation layers, and integration with Spring Boot APIs and relational databases.
